@@ -28,7 +28,7 @@ import java.util.Map;
 import java.util.Optional;
 import jakarta.annotation.Generated;
 
-@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2024-10-03T11:18:37.477793521+05:30[Asia/Kolkata]", comments = "Generator version: 7.8.0")
+@Generated(value = "org.openapitools.codegen.languages.SpringCodegen", date = "2024-10-03T14:31:57.747198048+05:30[Asia/Kolkata]", comments = "Generator version: 7.8.0")
 @Controller
 @RequestMapping("${openapi.mergedSpec.base-path:}")
 public class RestApiController implements RestApi {
